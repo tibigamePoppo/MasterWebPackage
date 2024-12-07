@@ -1,0 +1,151 @@
+{
+  "CharacterImage": {
+    "Sample1": "https://drive.google.com/uc?export=download&id=10_poSVdcOeonUxoPqA6TmF6C6Upji9UH",
+    "kuma": "https://drive.google.com/uc?export=download&id=1o9WQrU8vOFdwElst5phEhmt4N8NEeVGN",
+    "nashi": "https://drive.google.com/uc?export=download&id=1QXiCOSuH__IEa6SVAAEJkI4q79nnMgRF",
+    "shika": "https://drive.google.com/uc?export=download&id=1_haTwZiLoz2SzJLZ4JVbK0sjE_Q-uusG"
+  },
+  "Parameter": {
+    "roundTime": "300",
+    "title": "HogeHoge"
+  },
+  "Story": [
+    {
+      "storyId": "int",
+      "image": "string",
+      "characterName": "string",
+      "text": "string"
+    },
+    {
+      "storyId": "1",
+      "image": "kuma",
+      "characterName": "くまモン",
+      "text": "熊本県出身です！"
+    },
+    {
+      "storyId": "2",
+      "image": "kuma",
+      "characterName": "くまモン",
+      "text": "何でもやります！"
+    },
+    {
+      "storyId": "3",
+      "image": "nashi",
+      "characterName": "ふなっしー",
+      "text": "ご当地のゆるキャラです！"
+    },
+    {
+      "storyId": "4",
+      "image": "nashi",
+      "characterName": "ふなっしー",
+      "text": "しゃべって人気になりました！"
+    },
+    {
+      "storyId": "5",
+      "image": "nashi",
+      "characterName": "ふなっしー",
+      "text": "最近は影が薄くなってます！"
+    },
+    {
+      "storyId": "6",
+      "image": "shika",
+      "characterName": "せんとくん",
+      "text": "奈良県代表です！"
+    },
+    {
+      "storyId": "7",
+      "image": "shika",
+      "characterName": "せんとくん",
+      "text": "微妙に気持ち悪くて、人気なりました！"
+    },
+    {
+      "storyId": "8",
+      "image": "shika",
+      "characterName": "せんとくん",
+      "text": "正直なぜ人気かわかりません！"
+    },
+    {
+      "storyId": "9",
+      "image": "kuma",
+      "characterName": "くまモン",
+      "text": "会話の内容が思いつきません"
+    },
+    {
+      "storyId": "10",
+      "image": "kuma",
+      "characterName": "くまモン",
+      "text": "とりあえず3人のゆるキャラを出して思うのが、くまモン以外もう見ないよね"
+    },
+    {
+      "storyId": "11",
+      "image": "kuma",
+      "characterName": "くまモン",
+      "text": "ギリギリくまモンのグッズがあるくらい"
+    },
+    {
+      "storyId": "12",
+      "image": "nashi",
+      "characterName": "ふなっしー",
+      "text": "しゃべるのは一発屋に近かったのかもしれない"
+    },
+    {
+      "storyId": "13",
+      "image": "nashi",
+      "characterName": "ふなっしー",
+      "text": "あるいは中の職員の年か"
+    },
+    {
+      "storyId": "14",
+      "image": "nashi",
+      "characterName": "ふなっしー",
+      "text": "もうあんな声や動きはできないかも"
+    }
+  ],
+  "Card": [
+    {
+      "contentId": "int",
+      "name": "string",
+      "popularity": "int",
+      "monetary": "int",
+      "cuteness": "int",
+      "text": "string",
+      "image": "string"
+    },
+    {
+      "contentId": "1",
+      "name": "サンプルちゃん",
+      "popularity": "1",
+      "monetary": "1",
+      "cuteness": "100",
+      "text": "サンプル画像です",
+      "image": "Sample1"
+    },
+    {
+      "contentId": "2",
+      "name": "くまモン",
+      "popularity": "10",
+      "monetary": "15",
+      "cuteness": "15",
+      "text": "熊本県のゆるきゃら",
+      "image": "kuma"
+    },
+    {
+      "contentId": "3",
+      "name": "ふなっしー",
+      "popularity": "15",
+      "monetary": "15",
+      "cuteness": "5",
+      "text": "しゃべる梨",
+      "image": "nashi"
+    },
+    {
+      "contentId": "4",
+      "name": "せんとくん",
+      "popularity": "5",
+      "monetary": "10",
+      "cuteness": "10",
+      "text": "正直あまり見ない",
+      "image": "shika"
+    }
+  ]
+}
